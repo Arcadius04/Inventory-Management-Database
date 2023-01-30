@@ -5,7 +5,7 @@
  * Muhanna AlNoaimi / 202000153
  */
 
-#include "Component.hpp"
+#include "Headers/Component.hpp"
 
 Component::Component(std::string category, std::string type, int stock){
     this->category = category;

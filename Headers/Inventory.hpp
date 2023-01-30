@@ -11,10 +11,10 @@
 #include <map>
 #include <string>
 #include "nlohmann/json.hpp"
-#include "Component.hpp"
+#include "Headers/Component.hpp"
 #include <iostream>
 #include <fstream>
-#include "Console.hpp"
+#include "Headers/Console.hpp"
 
 class Inventory
 {

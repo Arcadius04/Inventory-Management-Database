@@ -7,8 +7,8 @@
 
 #ifndef _Library_HPP_
 #define _Library_HPP_
-#include "Inventory.hpp"
-#include "Console.hpp"
+#include "Headers/Inventory.hpp"
+#include "Headers/Console.hpp"
 #include <string>
 #include <iostream>
 // Allows access to max and min integer range

@@ -5,7 +5,7 @@
  * Muhanna AlNoaimi / 202000153
  */
 
-#include "Inventory.hpp"
+#include "Headers/Inventory.hpp"
 
 using namespace Console;
 
