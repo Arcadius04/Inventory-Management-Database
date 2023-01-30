@@ -5,7 +5,7 @@
  * Muhanna AlNoaimi / 202000153
  */
 
-#include "Headers/Console.hpp"
+#include "Console.hpp"
 
 
 void Console::consolePrint(std::string info)

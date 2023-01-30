@@ -5,7 +5,7 @@
  * Muhanna AlNoaimi / 202000153
  */
 
-#include "Headers/Library.hpp"
+#include "Library.hpp"
 
 using namespace std;
 // Ability to use the console namespace functions without calling the namespace itself

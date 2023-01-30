@@ -1,0 +1,1 @@
+{"Inventory":{"Resistor":{"1k":35,"2.2k":50,"4.7k":142},"Inductor":{"10mH":47,"20mH":123,"40mH":96},"Capacitor":{"0.1uF":33,"0.22uF":76,"0.47uF":88},"Transistor":{"2N2222A":20,"2N2907":42,"2N3903":75,"2N3906":25},"LogicGates":{"AND":261,"NAND":161,"OR":237,"NOR":524,"XOR":243,"XNOR":123}}}
